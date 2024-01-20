@@ -1,6 +1,8 @@
 # i_am_poor
 
-A new Flutter project.
+App Challenge by App Brewery.
+Flutter Coding Bootcamp
+Roompal Software Engineer Internship
 
 ## Getting Started
 
