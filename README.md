@@ -1,8 +1,8 @@
 # i_am_poor
 
 App Challenge by App Brewery.
-Flutter Coding Bootcamp
-Roompal Software Engineer Internship
+Flutter Coding Bootcamp.
+Roompal Software Engineer Internship.
 
 ## Getting Started
 
